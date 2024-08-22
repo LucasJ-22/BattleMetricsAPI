@@ -4,7 +4,8 @@ Para rodar a solução você deve clonar a aplicação em uma pasta desejada usa
 
 Após isso ao baixar a solução e querer executa-la a partir do visual studio code você deve abrir o terminal do aplicativo e executar o comando
 dotnet run
-No terminal aparecerá a porta que está executando Ex.: http://localhost:5133/ e para acessar a aplicação deverá escrever na URL swagger ficando (http://localhost:5133/swagger)
+No terminal aparecerá a porta que está executando 
+Ex.: http://localhost:5133/ e para acessar a aplicação deverá escrever na URL swagger ficando (http://localhost:5133/swagger)
 
 Porém caso queira executar usando o visual studio é so executa-lo normalmente.
 
