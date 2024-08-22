@@ -1,0 +1,6 @@
+@BattleMetricsAPI_HostAddress = http://localhost:5133
+
+GET {{BattleMetricsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
